@@ -1,0 +1,28 @@
+name: JoeSquire
+favicon: null
+layout_spectrum: 0.289248610381037
+typography_spectrum: 0.20517985988408327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2888706559315324
+  lightness: 0.27681722515262663
+  saturation: 0.9582311804406345
+  rhythmicContrast: 0.8086274843662977
+purpose: []
