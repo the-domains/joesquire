@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JoeSquire]]></title>
+        <description><![CDATA[JoeSquire]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 14:46:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04c75ece-1f19-4daf-973d-e57d49edb8ef.jpg">]]></description>
+            <link>undefinedreal-estate-is-moving-on-vancouver-island-here-in-2016-yeee/index.html</link>
+            <guid isPermaLink="false">0e06cf0a-040a-4ece-9b1f-03c602ece35d</guid>
+            <pubDate>Mon, 14 Mar 2016 14:45:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
